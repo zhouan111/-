@@ -1,0 +1,6 @@
+{
+  "name": "澳門字民｜澳門街頭招牌文字檔案索引",
+  "description": "澳門街頭招牌文字檔案索引 - 3D立體書架檔案庫與文獻索引系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
